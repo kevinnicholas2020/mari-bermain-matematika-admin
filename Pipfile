@@ -9,6 +9,12 @@ pylint = "*"
 [packages]
 django = "==3.0.7"
 djangorestframework = "*"
+gunicorn = "*"
+whitenoise = "*"
+django-filter = "*"
+django-storages = "*"
+boto3 = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
