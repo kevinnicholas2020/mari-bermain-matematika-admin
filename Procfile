@@ -1,1 +1,1 @@
-web: gunicorn admin-app.wsgi --log-file -
+web: gunicorn mari-bermain-matematika.wsgi --log-file -
